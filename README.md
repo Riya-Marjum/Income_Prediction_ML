@@ -61,6 +61,11 @@ Built as part of my AI/ML internship project at ICT Academy, this notebook showc
 - Preprocessing
 - Model training
 - Evaluation & results
+## Run the Income Prediction App
+- Open the Colab notebook
+- Run all cells
+- The Gradio UI will appear at the bottom
+
 
 📌 No installation needed — runs entirely in Colab.
 
