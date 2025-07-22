@@ -1,5 +1,4 @@
-# 💸 Income Prediction Using Machine Learning
-
+# 🔎 MoneyLens: Predicting Income from Lifestyle & Work Factors 💰📊
 This project predicts whether a person earns more than $50K per year based on demographic and employment data, using various classification algorithms trained on the UCI Adult Income dataset.
 
 Built as part of my AI/ML internship project at ICT Academy, this notebook showcases my end-to-end understanding of the ML pipeline — from preprocessing to model tuning and evaluation.
